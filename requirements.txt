@@ -1,3 +1,8 @@
 streamlit
 pandas
+plotlystreamlit
+pandas
 plotly
+folium
+streamlit-folium
+numpy
